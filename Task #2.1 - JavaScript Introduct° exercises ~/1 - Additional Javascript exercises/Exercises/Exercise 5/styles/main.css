@@ -1,0 +1,13 @@
+body {
+    padding: 1% 0;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.title {
+    font: 2rem bold;
+}
+.button-div {
+   display: flex;
+    justify-content: center;
+}

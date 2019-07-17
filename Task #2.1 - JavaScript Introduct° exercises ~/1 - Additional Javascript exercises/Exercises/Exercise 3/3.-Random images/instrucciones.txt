@@ -1,0 +1,43 @@
+Make a function for show a random image in a div in the center of the page.
+You have the images in the 'images' folder in the root directory.
+
+You need a 'Randomize' button under the div with the image that
+makes the action...
+
+Ok this is the last one!
+
+I need a button that every time is clicked, adds a new row in a table.
+But I need that adds a new row with a random color background.
+
+It's sounds hard but remember to think in little.
+
+In your HTML create an input field, a button with the text "Add" and an empty div under them.
+
+Create a function for every time that I press the Add button, the value of the input
+have to be appended in the empty div.
+If the input is empty (witouth any text), and the user press the Add button, an alert
+should be shown with an advertising text.
+
+Good luck.
+
+Create a function to fill an array with 100 random numbers. You can't create it manually.
+
+After this, make another function that separate the numbers of the first array in two new arrays:
+    var oddNumbers = [];
+    var evenNumbers = [];
+
+You have to console.log these two arrays after create them.
+
+In this exercise, you need to make some interesting things.
+First of all take a look at the html. You'll find three different divs with three different buttons.
+Every time that you click every button, "his" div needs to slideDown. (see jquery .slideDown() method).
+But here is the trickest thing. When you click any button, if some div is hidden, must to be shown again.
+For example: If you click the first button, the first div must be slideDown. If yo click the second button now,
+the second div dissapears but the first one must appears.
+ONLY the div that has clicked in last, have to be "hidden".
+Think about it.
+You only can make ONE function for all the buttons.
+
+Clue: Play with classes and "THIS" object.
+
+Good luck!!
